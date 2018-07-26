@@ -10,7 +10,7 @@ pennies = 0
     cents -= 25
     quarters += 1 
   else 
-break 
+    break 
     end
   end
 
@@ -45,5 +45,5 @@ coines_needed = {:quarters => quarters, :dimes => dimes, :nickels => nickels, :p
 puts coines_needed
 end
 
-least_coins(32)
+least_coins(29)
 
