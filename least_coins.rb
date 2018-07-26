@@ -45,5 +45,5 @@ coines_needed = {:quarters => quarters, :dimes => dimes, :nickels => nickels, :p
 puts coines_needed
 end
 
-least_coins(29)
+least_coins(79)
 
